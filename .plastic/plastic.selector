@@ -1,0 +1,4 @@
+repository "Shadow Wizard Money Game@jojosnake@cloud"
+  path "/"
+    br "/main"
+    co "/main"
